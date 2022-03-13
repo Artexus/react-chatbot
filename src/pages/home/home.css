@@ -1,0 +1,36 @@
+.container{
+    border: solid 1px black;
+    margin-top: 5%;
+    height: 40rem;
+    width: 35rem;
+    overflow-y: auto;
+}
+#input-container{
+    width: 35rem;
+    border: solid 1px black;
+}
+#input-text{
+    width: 85%;
+}
+.bot{
+    border-radius: 20px;
+    padding: 2%;
+    width: 100%;
+    overflow-wrap: normal;
+    background-color: greenyellow;
+}
+.chat-bot-container{
+    margin: 3%;
+    width: 55%;
+}
+
+.chat-user-container{
+    margin: 3%;
+    margin-left: 42%;
+}
+
+#send{
+    background:none;
+    width: 15%;
+    cursor:pointer;
+}
